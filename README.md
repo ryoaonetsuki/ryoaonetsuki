@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ryoaonetsuki/ryoaonetsuki/main/assets/developer.gif" alt="Developer Animation" width="600" />
+</div>
+
 ## Hi there 👋
 
 <!--
