@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ryoaonetsuki/ryoaonetsuki/main/assets/developer.gif" alt="Developer Animation" width="420" />
+  <img src="https://raw.githubusercontent.com/ryoaonetsuki/ryoaonetsuki/main/assets/kawaii-cat.gif" alt="Kawaii Cat" width="220" />
 </div>
 
 <p align="center">
