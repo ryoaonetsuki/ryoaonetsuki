@@ -43,7 +43,7 @@ I'm especially interested in:
 
 ---
 
-## ✍️ Random Dev Quote
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="28" height="28" /> Random Dev Quote
 
 <div align="center">
   <picture>
