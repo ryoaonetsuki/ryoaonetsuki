@@ -43,6 +43,18 @@ I'm especially interested in:
 
 ---
 
+## ✍️ Random Dev Quote
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Developer Quote" />
+  </picture>
+</div>
+
+---
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" height="28" /> GitHub Analytics
 
 <div align="center">
