@@ -27,7 +27,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="28" height="28" /> About Me
 
-I'm **Ryo Aonetsuki**, a **Software Developer** working across **full-stack development, AI-assisted development, and prompt engineering**.
+I'm **Salman Biswas**, a **Software Developer** working across **full-stack development, AI-assisted development, and prompt engineering**.
 
 I build digital products using both traditional development workflows and modern AI tools. I use AI to explore ideas, generate and refine code, prototype faster, automate workflows, and solve development problems.
 
