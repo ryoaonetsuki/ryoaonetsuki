@@ -4,7 +4,7 @@
   "seed": "#00D9FF",
   "seedFromAvatar": false,
   "scheme": "tonalSpot",
-  "motion": true,
+  "motion": false,
   "iconFill": true,
   "order": [
     "hero",
