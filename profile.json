@@ -1,0 +1,266 @@
+{
+  "version": 1,
+  "login": "ryoaonetsuki",
+  "seed": "#00D9FF",
+  "seedFromAvatar": false,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stats",
+    "projects",
+    "streak",
+    "wave",
+    "stack",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Software Developer",
+    "name": "Salman Biswas",
+    "subtitle": "I build digital products, web applications and AI-powered tools.",
+    "typing": true,
+    "avatarShape": "rounded",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "BANGLADESH"
+      },
+      {
+        "icon": "code",
+        "label": "Full-Stack · AI Development"
+      },
+      {
+        "icon": "handshake",
+        "label": "Open to Freelance & Collaboration"
+      }
+    ]
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/ryoaonetsuki"
+      },
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/aonetsukiarchive"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "about": {
+    "title": "About Me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Software developer and independent builder"
+      },
+      {
+        "icon": "code",
+        "label": "Full-stack web applications and modern responsive interfaces"
+      },
+      {
+        "icon": "auto_awesome",
+        "label": "AI-assisted development, vibe coding and prompt engineering"
+      },
+      {
+        "icon": "architecture",
+        "label": "Maintainable backend systems, scalable architecture and secure APIs"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech Stack",
+    "groups": [
+      {
+        "title": "Frontend",
+        "items": [
+          {
+            "icon": "brand:html",
+            "label": "HTML"
+          },
+          {
+            "icon": "brand:css",
+            "label": "CSS"
+          },
+          {
+            "icon": "brand:js",
+            "label": "JavaScript"
+          },
+          {
+            "icon": "brand:react",
+            "label": "React"
+          },
+          {
+            "icon": "brand:nextjs",
+            "label": "Next.js"
+          },
+          {
+            "icon": "brand:ts",
+            "label": "TypeScript"
+          },
+          {
+            "icon": "brand:tailwind",
+            "label": "Tailwind CSS"
+          },
+          {
+            "icon": "brand:bootstrap",
+            "label": "Bootstrap"
+          },
+          {
+            "icon": "brand:sass",
+            "label": "Sass"
+          }
+        ]
+      },
+      {
+        "title": "Backend",
+        "items": [
+          {
+            "icon": "brand:nodejs",
+            "label": "Node.js"
+          },
+          {
+            "icon": "brand:php",
+            "label": "PHP"
+          },
+          {
+            "icon": "brand:laravel",
+            "label": "Laravel"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:django",
+            "label": "Django"
+          }
+        ]
+      },
+      {
+        "title": "Database",
+        "items": [
+          {
+            "icon": "brand:mysql",
+            "label": "MySQL"
+          },
+          {
+            "icon": "brand:mongodb",
+            "label": "MongoDB"
+          },
+          {
+            "icon": "brand:postgres",
+            "label": "PostgreSQL"
+          },
+          {
+            "icon": "brand:firebase",
+            "label": "Firebase"
+          },
+          {
+            "icon": "brand:supabase",
+            "label": "Supabase"
+          }
+        ]
+      },
+      {
+        "title": "DevOps & Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:github",
+            "label": "GitHub"
+          },
+          {
+            "icon": "brand:docker",
+            "label": "Docker"
+          },
+          {
+            "icon": "brand:aws",
+            "label": "AWS"
+          },
+          {
+            "icon": "brand:linux",
+            "label": "Linux"
+          },
+          {
+            "icon": "brand:postman",
+            "label": "Postman"
+          },
+          {
+            "icon": "brand:figma",
+            "label": "Figma"
+          },
+          {
+            "icon": "brand:vscode",
+            "label": "VS Code"
+          }
+        ]
+      },
+      {
+        "title": "AI & Development",
+        "items": [
+          {
+            "icon": "auto_awesome",
+            "label": "AI-Assisted Development"
+          },
+          {
+            "icon": "psychology",
+            "label": "Prompt Engineering"
+          },
+          {
+            "icon": "code",
+            "label": "Vibe Coding"
+          },
+          {
+            "icon": "bolt",
+            "label": "AI Prototyping"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [],
+    "overrides": {},
+    "empty": "Pin your featured repositories on GitHub to showcase them here.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub Analytics",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Contribution Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "book_2",
+        "label": "All Repositories",
+        "url": "https://github.com/ryoaonetsuki?tab=repositories",
+        "style": "tonal"
+      }
+    ]
+  }
+}
