@@ -1,27 +1,43 @@
-import { readFileSync, writeFileSync } from "node:fs";
+import { writeFileSync } from "node:fs";
 
-const file = "README.md";
-let readme = readFileSync(file, "utf8");
-readme = readme.replace(/\n?<!-- premium-custom:[a-z-]+:start -->[\s\S]*?<!-- premium-custom:[a-z-]+:end -->\n?/g, "\n");
-
-const picture = (name, alt, width = "100%") => `<img src="assets/${name}.svg" width="${width}" alt="${alt}">`;
-const quote = `<!-- premium-custom:quote:start -->\n${picture("quote", "Random developer quote")}\n<!-- premium-custom:quote:end -->`;
-const bring = `<!-- premium-custom:bring:start -->\n${picture("bring", "What I bring")}\n<!-- premium-custom:bring:end -->`;
-const focus = `<!-- premium-custom:focus:start -->\n${picture("focus", "Professional focus")}\n<!-- premium-custom:focus:end -->`;
-const connect = `<!-- premium-custom:connect:start -->\n${picture("connect", "Connect with me")}\n<!-- premium-custom:connect:end -->`;
-const opportunities = `<!-- premium-custom:opportunities:start -->\n${picture("opportunities", "Open to opportunities")}\n<!-- premium-custom:opportunities:end -->`;
-const footer = `<!-- premium-custom:footer:start -->\n${picture("profile-views", "Profile views")}\n\n<div align="center">\n${picture("portfolio", "Portfolio — add your link here later", "520")}\n</div>\n<!-- premium-custom:footer:end -->`;
-
-const lines = readme.split("\n");
-const socialLine = lines.find(line => line.includes("assets/social-l-dark.svg")) || "";
-const repoButton = lines.find(line => line.includes("tab=repositories") && line.includes("assets/button-")) || "";
-const out = [];
-for (const line of lines) {
-  if (line === socialLine || line === repoButton) continue;
-  out.push(line);
-  if (line.includes("assets/about-dark.svg")) out.push("", quote);
-  if (line.includes("assets/stack-dark.svg")) out.push("", bring, "", focus, "", connect, "", socialLine, "", opportunities);
-}
-readme = out.join("\n").replace(/\n{3,}/g, "\n\n").trimEnd();
-readme += "\n\n" + (repoButton ? repoButton + "\n\n" : "") + footer + "\n";
-writeFileSync(file, readme);
+const lines = [
+  '<div align="center">',
+  '',
+  '<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Salman Biswas — Software Developer"></picture>',
+  '',
+  '<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="13%" alt=""></picture><a href="https://t.me/ryoaonetsuki"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="18%" alt="Telegram profile"></picture></a><a href="https://t.me/aonetsukiarchive"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="18%" alt="Telegram channel"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="13%" alt=""></picture>',
+  '',
+  '<picture><source media="(prefers-color-scheme: dark)" srcset="assets/premium-about-dark.svg"><img src="assets/premium-about-light.svg" width="100%" alt="About Me"></picture>',
+  '',
+  '<picture><source media="(prefers-color-scheme: dark)" srcset="assets/premium-quote-dark.svg"><img src="assets/premium-quote-light.svg" width="100%" alt="Random Developer Quote"></picture>',
+  '',
+  '<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub Analytics"></picture>',
+  '',
+  '<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Contribution Streak"></picture>',
+  '',
+  '<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>',
+  '',
+  '<picture><source media="(prefers-color-scheme: dark)" srcset="assets/premium-stack-dark.svg"><img src="assets/premium-stack-light.svg" width="100%" alt="Tech Stack"></picture>',
+  '',
+  '<picture><source media="(prefers-color-scheme: dark)" srcset="assets/premium-bring-dark.svg"><img src="assets/premium-bring-light.svg" width="100%" alt="What I Bring"></picture>',
+  '',
+  '<picture><source media="(prefers-color-scheme: dark)" srcset="assets/premium-focus-dark.svg"><img src="assets/premium-focus-light.svg" width="100%" alt="Professional Focus"></picture>',
+  '',
+  '<picture><source media="(prefers-color-scheme: dark)" srcset="assets/premium-connect-dark.svg"><img src="assets/premium-connect-light.svg" width="100%" alt="Connect With Me"></picture>',
+  '',
+  '<picture><source media="(prefers-color-scheme: dark)" srcset="assets/premium-opportunities-dark.svg"><img src="assets/premium-opportunities-light.svg" width="100%" alt="Open to Opportunities"></picture>',
+  '',
+  '<picture><source media="(prefers-color-scheme: dark)" srcset="assets/premium-views-dark.svg"><img src="assets/premium-views-light.svg" width="100%" alt="Profile Views"></picture>',
+  '<div align="center"><img src="https://komarev.com/ghpvc/?username=ryoaonetsuki&label=Profile%20Views&color=00D9FF&style=flat-square" alt="Live profile view counter"></div>',
+  '<picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture>',
+  '',
+  '</div>',
+  '',
+  '<div align="center">',
+  '<a href="https://github.com/ryoaonetsuki?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/premium-repositories-dark.svg"><img src="assets/premium-repositories-light.svg" width="250" alt="All Repositories"></picture></a>',
+  '&nbsp;&nbsp;',
+  '<a href="https://github.com/ryoaonetsuki"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/premium-portfolio-dark.svg"><img src="assets/premium-portfolio-light.svg" width="250" alt="Portfolio"></picture></a>',
+  '</div>',
+  ''
+];
+writeFileSync("README.md", lines.join("\n"));
