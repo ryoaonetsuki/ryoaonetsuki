@@ -10,13 +10,13 @@
     "hero",
     "socials",
     "stats",
+    "projects",
     "streak",
     "wave",
     "buttons"
   ],
   "hidden": [
     "about",
-    "projects",
     "stack"
   ],
   "hero": {
@@ -50,6 +50,13 @@
     "variant": "chip",
     "fill": "tonal",
     "card": true
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [],
+    "overrides": {},
+    "empty": "Pin your featured repositories on GitHub to showcase them here.",
+    "fork": "Fork"
   },
   "stats": {
     "title": "GitHub analytics",
