@@ -2,7 +2,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Salman Biswas — Software Developer"></picture>
 
-<a href="https://t.me/ryoaonetsuki"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="34%" alt="Chat on Telegram"></picture></a>&nbsp;&nbsp;<a href="https://t.me/aonetsukiarchive"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="34%" alt="Telegram Channel"></picture></a>
+<a href="https://t.me/ryoaonetsuki"><picture><source media="(prefers-color-scheme: dark)" srcset="contact-telegram-profile-dark.svg"><img src="contact-telegram-profile-light.svg" width="42%" alt="Telegram Profile"></picture></a>&nbsp;&nbsp;<a href="https://t.me/aonetsukiarchive"><picture><source media="(prefers-color-scheme: dark)" srcset="contact-telegram-channel-dark.svg"><img src="contact-telegram-channel-light.svg" width="42%" alt="Telegram Channel"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./profile-assets/premium-about-dark.svg"><img src="./profile-assets/premium-about-light.svg" width="100%" alt="About Me"></picture>
 
