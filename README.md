@@ -1,5 +1,8 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/ryoaonetsuki/ryoaonetsuki/main/assets/kawaii-cat.gif" alt="Kawaii Cat" width="220" />
+
+  <h1>Hey, I'm Salman Biswas 👋</h1>
+  <p><strong>Software Developer · Full-Stack Development · AI-Assisted Building</strong></p>
 </div>
 
 <p align="center">
@@ -58,7 +61,20 @@ I'm especially interested in:
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" height="28" /> GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryoaonetsuki&theme=react&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=ffffff" alt="GitHub Streak" width="49%" />
+  <a href="https://github.com/ryoaonetsuki">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=ryoaonetsuki&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github" alt="Salman's GitHub stats" />
+  </a>
+  <a href="https://github.com/ryoaonetsuki">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryoaonetsuki&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" alt="Most used languages" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryoaonetsuki&theme=react&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=ffffff" alt="GitHub contribution streak" width="80%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryoaonetsuki&bg_color=0D1117&color=C9D1D9&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution activity graph" width="100%" />
 </div>
 
 ---
@@ -161,4 +177,3 @@ I enjoy working on projects involving:
   <h3>Thanks for visiting my profile</h3>
   <p>If you find my work useful, consider following me and starring my repositories.</p>
 </div>
-
