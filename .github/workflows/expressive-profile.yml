@@ -8,6 +8,7 @@ on:
     paths:
       - profile.json
       - .profile/icons.json
+      - .profile/extended-sections.md
       - .github/workflows/expressive-profile.yml
 
 permissions:
@@ -25,3 +26,11 @@ jobs:
       - uses: metawka/expressive-profile@v1
         with:
           token: ${{ secrets.PROFILE_TOKEN || github.token }}
+      - name: Restore original custom sections and widgets
+        shell: bash
+        run: |
+          cat .profile/extended-sections.md >> README.md
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || (git commit -m "Restore custom profile sections" && git push)
