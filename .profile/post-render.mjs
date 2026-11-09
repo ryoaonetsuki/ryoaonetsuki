@@ -23,3 +23,4 @@ for (const line of lines) {
 readme = out.join("\n").replace(/\n{3,}/g, "\n\n").trimEnd();
 readme += "\n\n" + footer + "\n";
 writeFileSync(file, readme);
+
