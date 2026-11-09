@@ -44,6 +44,6 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile-views-dark.svg"><img src="assets/profile-views-light.svg" width="100%" alt="Profile views"></picture>
 
 <div align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/portfolio-dark.svg"><img src="assets/portfolio-light.svg" width="260" alt="Portfolio — add your link here later"></picture>
+<img src="assets/portfolio.svg" width="520" alt="Portfolio — add your link here later">
 </div>
 <!-- premium-custom:footer:end -->
