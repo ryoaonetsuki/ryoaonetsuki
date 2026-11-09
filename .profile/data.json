@@ -1,0 +1,494 @@
+{
+ "key": "2e3164bf",
+ "stars": 7,
+ "contributions": 2652,
+ "repos": 39,
+ "followers": 11,
+ "languages": [
+  [
+   "C++",
+   2668003
+  ],
+  [
+   "Kotlin",
+   2032369
+  ],
+  [
+   "HTML",
+   910099
+  ],
+  [
+   "JavaScript",
+   691373
+  ],
+  [
+   "TypeScript",
+   543047
+  ],
+  [
+   "C",
+   541598
+  ],
+  [
+   "Python",
+   420803
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 22,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 5,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 6,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 30,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 31,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 50,
+    "day": 1,
+    "today": false
+   },
+   {
+    "c": 21,
+    "day": 2,
+    "today": false
+   },
+   {
+    "c": 12,
+    "day": 3,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 81,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 259,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 381,
+    "day": 7,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 325,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 772,
+    "day": 9,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 5,
+  "longest": 7
+ },
+ "pins": [],
+ "all": [
+  {
+   "name": "donghualand",
+   "url": "https://github.com/ryoaonetsuki/donghualand",
+   "text": "A full-featured donghua (Chinese animation) streaming platform built with Hono, TypeScript, and Cloudflare D1.",
+   "fork": false,
+   "stars": 4,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "RPMStream",
+   "url": "https://github.com/ryoaonetsuki/RPMStream",
+   "text": "A Python service that streams and re-uploads videos directly from Telegram without saving files locally.",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "android-music-app",
+   "url": "https://github.com/ryoaonetsuki/android-music-app",
+   "text": "A Kotlin-based Android music application.",
+   "fork": false,
+   "stars": 1,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "link-shortener",
+   "url": "https://github.com/ryoaonetsuki/link-shortener",
+   "text": "A JavaScript URL shortener web service built on Next.js.",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "unslop",
+   "url": "https://github.com/ryoaonetsuki/unslop",
+   "text": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "mira-ai-voice-assistant",
+   "url": "https://github.com/ryoaonetsuki/mira-ai-voice-assistant",
+   "text": "Mira AI — real-time voice AI assistant (BYOK Gemini Live)",
+   "fork": false,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "mira-app",
+   "url": "https://github.com/ryoaonetsuki/mira-app",
+   "text": "Mira - Bangla-first real-time voice AI assistant (working project, prototype first)",
+   "fork": false,
+   "stars": 0,
+   "language": "Dart",
+   "topics": []
+  },
+  {
+   "name": "netflix-clone",
+   "url": "https://github.com/ryoaonetsuki/netflix-clone",
+   "text": "A modern Flutter mobile app inspired by the Netflix app interface.",
+   "fork": true,
+   "stars": 0,
+   "language": "Dart",
+   "topics": []
+  },
+  {
+   "name": "doory",
+   "url": "https://github.com/ryoaonetsuki/doory",
+   "text": "Open source canva alternative",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "telegram-formatter",
+   "url": "https://github.com/ryoaonetsuki/telegram-formatter",
+   "text": "Format text for Telegram: bold, quotes, links — copy rich text that pastes with formatting intact. No backend, no tracking.",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "toonkotsu-clone",
+   "url": "https://github.com/ryoaonetsuki/toonkotsu-clone",
+   "text": "Toonkotsu Clone — manga/manhwa/webtoon reading platform template (Cloudflare Pages + Supabase + ImgBB). Free to download, use and host as-is; no code modification. See LICENSE.md.",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "solid-glass",
+   "url": "https://github.com/ryoaonetsuki/solid-glass",
+   "text": "A design system for AI applications. Material, physical, tactile, technical.",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "awesome-downloader",
+   "url": "https://github.com/ryoaonetsuki/awesome-downloader",
+   "text": "Open-source Windows download manager with browser video integration",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "qwen-unbound-coder-ai",
+   "url": "https://github.com/ryoaonetsuki/qwen-unbound-coder-ai",
+   "text": "Qwen Unbound Coder AI — free, open-weight, reduced-refusal coding assistant (Qwen3.8-27B-Uncensored-GGUF Q4_K_M via llama.cpp + notebook GPU + static frontend)",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "frame-forum",
+   "url": "https://github.com/ryoaonetsuki/frame-forum",
+   "text": "FRAME Community Forum - static demo",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "mira",
+   "url": "https://github.com/ryoaonetsuki/mira",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "Portfolio-project",
+   "url": "https://github.com/ryoaonetsuki/Portfolio-project",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "ryoaonetsuki",
+   "url": "https://github.com/ryoaonetsuki/ryoaonetsuki",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "vrozek-ai-bot",
+   "url": "https://github.com/ryoaonetsuki/vrozek-ai-bot",
+   "text": "An intelligent Telegram bot ecosystem with a group assistant, product catalog, knowledge base, and moderation.",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "developer-profile",
+   "url": "https://github.com/ryoaonetsuki/developer-profile",
+   "text": "A responsive developer portfolio built with React, Vite, and Tailwind CSS.",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "device-faker",
+   "url": "https://github.com/ryoaonetsuki/device-faker",
+   "text": "A configurable Zygisk-based Android device spoofing module with a native Rust CLI.",
+   "fork": true,
+   "stars": 0,
+   "language": "Vue",
+   "topics": []
+  },
+  {
+   "name": "direct-video-to-embed",
+   "url": "https://github.com/ryoaonetsuki/direct-video-to-embed",
+   "text": "A standalone HTML utility that converts direct video URLs into embed-ready links.",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "telegram-group-manager",
+   "url": "https://github.com/ryoaonetsuki/telegram-group-manager",
+   "text": "A Telegram group management bot with moderation controls, spam protection, and admin tools.",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "jiosaavn-api-pro",
+   "url": "https://github.com/ryoaonetsuki/jiosaavn-api-pro",
+   "text": "An unofficial JioSaavn API for streaming and downloading high-quality songs, built with Hono and TypeScript.",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "jiosaavn-api",
+   "url": "https://github.com/ryoaonetsuki/jiosaavn-api",
+   "text": "A high-performance JioSaavn API built with Python and FastAPI for fetching DRM-free songs.",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "anime-post-publisher",
+   "url": "https://github.com/ryoaonetsuki/anime-post-publisher",
+   "text": "A lightweight web platform for creating and publishing anime posts with rich media support and a responsive UI.",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "zenime",
+   "url": "https://github.com/ryoaonetsuki/zenime",
+   "text": "A React-based anime streaming platform.",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "next-anime",
+   "url": "https://github.com/ryoaonetsuki/next-anime",
+   "text": "A free anime streaming website built with Next.js and the Consumet API.",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "GogoAnime-RE",
+   "url": "https://github.com/ryoaonetsuki/GogoAnime-RE",
+   "text": "A vanilla PHP CMS for building anime streaming platforms with external video embedding.",
+   "fork": true,
+   "stars": 0,
+   "language": "PHP",
+   "topics": []
+  },
+  {
+   "name": "blogger-template-modified",
+   "url": "https://github.com/ryoaonetsuki/blogger-template-modified",
+   "text": "A customized Blogger XML template with a modern responsive layout, reusable sections, and improved styling.",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "telegram-ai-assistant",
+   "url": "https://github.com/ryoaonetsuki/telegram-ai-assistant",
+   "text": "A Telegram AI assistant with multi-model AI, MongoDB, music integration, and smart group conversation handling.",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "evolution-studio-webview",
+   "url": "https://github.com/ryoaonetsuki/evolution-studio-webview",
+   "text": "A modern native Android WebView application for Evolution Studio.",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": [
+    "android",
+    "android-app",
+    "apk",
+    "webview",
+    "evolution-studio"
+   ]
+  },
+  {
+   "name": "telegram-video-processor",
+   "url": "https://github.com/ryoaonetsuki/telegram-video-processor",
+   "text": "A Python bot that automatically processes, compresses, and re-encodes Telegram videos.",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "riko-ai-companion",
+   "url": "https://github.com/ryoaonetsuki/riko-ai-companion",
+   "text": "A vtuber-style AI companion project with a configurable character, LLM backend, and client UI.",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "image-splitter",
+   "url": "https://github.com/ryoaonetsuki/image-splitter",
+   "text": "A browser-based tool to quickly split images into customizable grid tiles.",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "gemini-telegram-bot",
+   "url": "https://github.com/ryoaonetsuki/gemini-telegram-bot",
+   "text": "A Python Telegram bot powered by Google Gemini AI for smart chatting and automation.",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "manga-blogger-bot",
+   "url": "https://github.com/ryoaonetsuki/manga-blogger-bot",
+   "text": "A Python Telegram bot that automatically publishes manga chapters to a Blogger blog.",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "telegram-file-stream",
+   "url": "https://github.com/ryoaonetsuki/telegram-file-stream",
+   "text": "A Cloudflare Worker that converts Telegram files into streamable URLs.",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "telegram-file-link-bot",
+   "url": "https://github.com/ryoaonetsuki/telegram-file-link-bot",
+   "text": "A fast Telegram file-to-link bot built on the Kurigram platform.",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  }
+ ]
+}
