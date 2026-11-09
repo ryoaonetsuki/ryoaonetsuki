@@ -9,15 +9,16 @@
   "order": [
     "hero",
     "socials",
-    "about",
     "stats",
-    "projects",
     "streak",
     "wave",
-    "buttons",
+    "buttons"
+  ],
+  "hidden": [
+    "about",
+    "projects",
     "stack"
   ],
-  "hidden": [],
   "hero": {
     "greeting": "Software Developer",
     "name": "Salman Biswas",
@@ -35,119 +36,6 @@
       }
     ]
   },
-  "about": {
-    "title": "About me",
-    "items": [
-      {
-        "icon": "person",
-        "label": "Software developer & independent builder"
-      },
-      {
-        "icon": "code",
-        "label": "Full-stack web and application development"
-      },
-      {
-        "icon": "auto_awesome",
-        "label": "AI-assisted development & prompt engineering"
-      }
-    ]
-  },
-  "stack": {
-    "title": "Tech stack",
-    "groups": [
-      {
-        "title": "Frontend",
-        "items": [
-          {
-            "icon": "brand:html5",
-            "label": "HTML"
-          },
-          {
-            "icon": "brand:css",
-            "label": "CSS"
-          },
-          {
-            "icon": "brand:javascript",
-            "label": "JavaScript"
-          },
-          {
-            "icon": "brand:typescript",
-            "label": "TypeScript"
-          },
-          {
-            "icon": "brand:react",
-            "label": "React"
-          }
-        ]
-      },
-      {
-        "title": "Backend & data",
-        "items": [
-          {
-            "icon": "brand:php",
-            "label": "PHP"
-          },
-          {
-            "icon": "brand:python",
-            "label": "Python"
-          },
-          {
-            "icon": "brand:firebase",
-            "label": "Firebase"
-          },
-          {
-            "icon": "brand:supabase",
-            "label": "Supabase"
-          }
-        ]
-      },
-      {
-        "title": "Tools & platforms",
-        "items": [
-          {
-            "icon": "brand:git",
-            "label": "Git"
-          },
-          {
-            "icon": "brand:github",
-            "label": "GitHub"
-          },
-          {
-            "icon": "brand:cloudflare",
-            "label": "Cloudflare"
-          },
-          {
-            "icon": "brand:figma",
-            "label": "Figma"
-          }
-        ]
-      }
-    ]
-  },
-  "projects": {
-    "source": "pinned",
-    "repos": [],
-    "overrides": {},
-    "empty": "Pin your featured repositories to showcase them here.",
-    "fork": "Fork"
-  },
-  "stats": {
-    "title": "GitHub activity",
-    "stars": "Stars earned",
-    "contributions": "Contributions this year",
-    "repos": "Public repos",
-    "followers": "Followers",
-    "calendar": "Last 21 days",
-    "weekdays": "SMTWTFS",
-    "languages": "Languages across my repositories",
-    "showLanguages": true
-  },
-  "streak": {
-    "title": "Contribution streak",
-    "current": "Current streak",
-    "longest": "Longest this year",
-    "days": "days"
-  },
   "socials": {
     "items": [
       {
@@ -163,14 +51,25 @@
     "fill": "tonal",
     "card": true
   },
+  "stats": {
+    "title": "GitHub analytics",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Contribution streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
   "buttons": {
     "items": [
-      {
-        "icon": "language",
-        "label": "Portfolio",
-        "url": "https://profile.vrozek.xyz/",
-        "style": "filled"
-      },
       {
         "icon": "book_2",
         "label": "All repositories",
