@@ -31,7 +31,7 @@ const lines = [
   '<div align="center">',
   '<a href="https://github.com/ryoaonetsuki?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/premium-repositories-dark.svg"><img src="assets/premium-repositories-light.svg" width="42%" alt="All Repositories"></picture></a>',
   '&nbsp;&nbsp;',
-  '<a href="https://github.com/ryoaonetsuki"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/premium-portfolio-dark.svg"><img src="assets/premium-portfolio-light.svg" width="42%" alt="Portfolio"></picture></a>',
+  '<picture><source media="(prefers-color-scheme: dark)" srcset="assets/premium-portfolio-dark.svg"><img src="assets/premium-portfolio-light.svg" width="42%" alt="Portfolio — add your URL later"></picture>',
   '</div>',
   ''
 ];
