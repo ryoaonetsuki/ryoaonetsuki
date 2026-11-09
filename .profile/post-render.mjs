@@ -13,7 +13,7 @@ const lines = [
   '',
   '<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Contribution Streak"></picture>',
   '',
-  '<picture><source media="(prefers-color-scheme: dark)" srcset="./profile-assets/premium-stack-dark.svg"><img src="./profile-assets/premium-stack-light.svg" width="100%" alt="Tech Stack"></picture>',
+  '<picture><source media="(prefers-color-scheme: dark)" srcset="./tech-stack-dark.svg"><img src="./tech-stack-light.svg" width="100%" alt="Tech Stack"></picture>',
   '',
   '<picture><source media="(prefers-color-scheme: dark)" srcset="./profile-assets/premium-bring-dark.svg"><img src="./profile-assets/premium-bring-light.svg" width="100%" alt="What I Bring"></picture>',
   '',
