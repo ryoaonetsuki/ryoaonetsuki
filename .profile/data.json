@@ -1,13 +1,13 @@
 {
- "key": "2c419cc7",
+ "key": "b022a05",
  "stars": 7,
- "contributions": 2959,
- "repos": 40,
- "followers": 14,
+ "contributions": 3022,
+ "repos": 41,
+ "followers": 13,
  "languages": [
   [
    "Kotlin",
-   2903377
+   2926143
   ],
   [
    "C++",
@@ -19,7 +19,7 @@
   ],
   [
    "JavaScript",
-   694796
+   691489
   ],
   [
    "TypeScript",
@@ -136,15 +136,19 @@
     "today": false
    },
    {
-    "c": 60,
+    "c": 71,
     "day": 13,
-    "today": true
+    "today": false
    },
-   null
+   {
+    "c": 52,
+    "day": 14,
+    "today": true
+   }
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 2,
   "longest": 7
  },
  "pins": [],
@@ -183,6 +187,15 @@
    "fork": false,
    "stars": 1,
    "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "License",
+   "url": "https://github.com/ryoaonetsuki/License",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
    "topics": []
   },
   {
