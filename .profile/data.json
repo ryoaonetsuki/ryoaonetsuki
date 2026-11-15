@@ -1,13 +1,13 @@
 {
- "key": "b022a05",
+ "key": "31cec858",
  "stars": 7,
- "contributions": 3022,
+ "contributions": 3263,
  "repos": 41,
  "followers": 13,
  "languages": [
   [
    "Kotlin",
-   2926143
+   2981279
   ],
   [
    "C++",
@@ -31,47 +31,10 @@
   ],
   [
    "Python",
-   420803
+   420675
   ]
  ],
  "days": [
-  [
-   {
-    "c": 0,
-    "day": 25,
-    "today": false
-   },
-   {
-    "c": 22,
-    "day": 26,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 27,
-    "today": false
-   },
-   {
-    "c": 5,
-    "day": 28,
-    "today": false
-   },
-   {
-    "c": 6,
-    "day": 29,
-    "today": false
-   },
-   {
-    "c": 1,
-    "day": 30,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 31,
-    "today": false
-   }
-  ],
   [
    {
     "c": 50,
@@ -141,14 +104,27 @@
     "today": false
    },
    {
-    "c": 52,
+    "c": 190,
     "day": 14,
-    "today": true
+    "today": false
    }
+  ],
+  [
+   {
+    "c": 103,
+    "day": 15,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
   ]
  ],
  "streak": {
-  "current": 2,
+  "current": 3,
   "longest": 7
  },
  "pins": [],
@@ -217,9 +193,9 @@
    "topics": []
   },
   {
-   "name": "mira-ai-voice-assistant",
-   "url": "https://github.com/ryoaonetsuki/mira-ai-voice-assistant",
-   "text": "Mira AI — real-time voice AI assistant (BYOK Gemini Live)",
+   "name": "mira-ai",
+   "url": "https://github.com/ryoaonetsuki/mira-ai",
+   "text": "Mira AI — free open-source real-time voice assistant for Android. Talk like a person; she controls your phone by voice, learns skills, and never stops mid-task.",
    "fork": false,
    "stars": 0,
    "language": "Kotlin",
