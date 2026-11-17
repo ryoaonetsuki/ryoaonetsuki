@@ -14,15 +14,6 @@
   <img src="https://img.shields.io/badge/Focus-AI--Assisted%20Development-111111?style=for-the-badge&logo=googlegemini&logoColor=white" />
 </p>
 
-<p align="center">
-  <a href="https://t.me/ryoaonetsuki">
-    <img src="https://img.shields.io/badge/Telegram-Profile-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://t.me/aonetsukiarchive">
-    <img src="https://img.shields.io/badge/Telegram-Channel-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="28" height="28" /> About Me
